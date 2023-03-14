@@ -3,3 +3,5 @@ xin chao
 thich an hu tieu
 
 hu tieu bo kho
+
+bo kho trung
